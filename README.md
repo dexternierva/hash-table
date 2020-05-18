@@ -1,6 +1,6 @@
 # Hash Table
 
-Implementation of a Hash table in Javascript. Hash tables are used to store key-value pairs. Javascript already has a built-in hash table and its called Map.
+Implementation of a Hash table in Javascript, which is used to store key-value pairs. 
 
 ## Usage
 
